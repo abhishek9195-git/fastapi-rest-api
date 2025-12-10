@@ -1,0 +1,9 @@
+[
+            {"id": 1, "firstName": "John", "lastName": "Doe", "gender": "Male",  "bio": "Software developer who loves Python."},
+            {"id": 2, "firstName": "James", "lastName": "Smith", "gender": "Male", "bio": "Data scientist and machine learning expert."},
+            {"id": 3, "firstName": "David", "lastName": "B.", "gender": "Male", "bio": "Frontend developer who loves JavaScript."},
+            {"id": 4, "firstName": "Alice", "lastName": "pixi", "gender": "Female", "bio": "She is an artist."},
+            {"id": 5, "firstName": "Elenor", "lastName": "Shellstrop", "gender": "Female", "bio": "TV series actress."}
+
+
+]

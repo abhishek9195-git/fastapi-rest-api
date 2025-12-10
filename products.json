@@ -1,0 +1,38 @@
+[
+        {
+            "id": 1,
+            "title": "Product 1",
+            "description": "Product 1 description",
+            "category": "furniture",
+            "price": 100,
+            "rating": 4.4,
+            "stock": 20,
+            "discountPercentage": 2,
+            "tags": ["furniture"],
+            "reviews": []
+        },
+        {
+            "id": 2,
+            "title": "Product 2",
+            "description": "Product 2 description",
+            "category": "furniture",
+            "price": 80,
+            "rating": 4.4,
+            "stock": 20,
+            "discountPercentage": 5,
+            "tags": ["furniture"],
+            "reviews": []
+        },
+        {
+            "id": 3,
+            "title": "Product 3",
+            "description": "Product 3 description",
+            "category": "beauty",
+            "price": 200,
+            "rating": 4.4,
+            "stock": 2,
+            "discountPercentage": 7,
+            "tags": ["furniture"],
+            "reviews": []
+        }
+]
